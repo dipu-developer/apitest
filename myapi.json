@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "image": "image/mob/cat/cardimg.avif",
+        "image": "https://www.jiomart.com//images/product/original/492642507/sunfeast-dark-fantasy-belgian-chocolate-shake-300-ml-pet-bottle-product-images-o492642507-p591189469-0-202203231314.jpg?im=Resize=(150,150)",
         "title": "Happilo 1kg Almonds|100% Natural California Almonds",
         "price": 765.00,
         "discount": 1350.00,
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "image": "image/mob/cat/cardimg.avif",
+        "image": "https://www.jiomart.com//images/product/original/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-0-202306091508.jpg?im=Resize=(150,150)",
         "title": "Happilo 1kg Almonds|100% Natural California Almonds",
         "price": 765.00,
         "discount": 1350.00,
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "image": "image/mob/cat/cardimg.avif",
-        "title": "Happilo 1kg Almonds|100% Natural California Almonds",
+        "title": "https://www.jiomart.com//images/product/original/491016281/colgate-max-fresh-spicy-fresh-red-gel-toothpaste-150-g-pack-of-2-product-images-o491016281-p491016281-0-202206021942.jpg?im=Resize=(150,150)",
         "price": 765.00,
         "discount": 1350.00,
         "discountper": 47,
