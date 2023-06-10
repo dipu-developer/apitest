@@ -4,14 +4,32 @@
         "title": "Happilo 1kg Almonds|100% Natural California Almonds",
         "price": 765.00,
         "discount": 1350.00,
-        "discountper": 47
+        "discountper": 47,
+        "featured": true
     },
     {
         "image": "image/mob/cat/cardimg.avif",
         "title": "Happilo 1kg Almonds|100% Natural California Almonds",
         "price": 765.00,
         "discount": 1350.00,
-        "discountper": 47
+        "discountper": 47,
+        "featured": true
+    },
+    {
+        "image": "image/mob/cat/cardimg.avif",
+        "title": "Happilo 1kg Almonds|100% Natural California Almonds",
+        "price": 765.00,
+        "discount": 1350.00,
+        "discountper": 47,
+        "featured": true
+    },
+    {
+        "image": "image/mob/cat/cardimg.avif",
+        "title": "Happilo 1kg Almonds|100% Natural California Almonds",
+        "price": 765.00,
+        "discount": 1350.00,
+        "discountper": 47,
+        "featured": true
     },
     {
         "image": "image/mob/cat/cardimg.avif",
